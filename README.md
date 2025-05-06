@@ -31,7 +31,7 @@ pip install -r app/requirements.txt
 
 3. Run the application:
 ```bash
-./run_local.py
+./run_local.sh
 ```
 
 The API will be available at `http://localhost:8000`
